@@ -1,0 +1,9 @@
+{
+  "name": "com.sirenix.odin",
+  "version": "3.0.2",
+  "displayName": "Odin",
+  "description": "",
+  "unity": "2020.3",
+  "dependencies": {
+  }
+}
